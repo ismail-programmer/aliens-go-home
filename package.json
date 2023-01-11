@@ -5,7 +5,7 @@
   "dependencies": {
     "auth0-web": "^1.7.0",
     "express": "^4.16.4",
-    "jsonwebtoken": "^8.5.0",
+    "jsonwebtoken": "^9.0.0",
     "jwks-rsa": "^1.4.0",
     "prop-types": "^15.7.2",
     "react": "^16.8.2",
